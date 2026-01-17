@@ -1,9 +1,8 @@
 .{
-	// .name = .plugscaler_waifu2x,
-	.name = "plugscaler-waifu2x",
+	.name = .plugscaler_waifu2x,
 	.version = "0.0.1",
-	// .fingerprint = 0x46cfc7b33eed40da,
-	.minimum_zig_version = "0.14.1",
+	.fingerprint = 0x1c81094ae54f06e4,
+	.minimum_zig_version = "0.14.0",
 	.paths = .{
 		"build.zig",
 		"build.zig.zon",
